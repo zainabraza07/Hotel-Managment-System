@@ -24,8 +24,7 @@ This was a C++-based project built as part of a university assignment to manage 
 
 ## 🚧 Project Status
 
-The original source code is currently not available. A simplified version may be recreated soon.  
-📌 Screenshots and demo will be added later.
+Code file available.
 
 ## 📚 What I Learned
 
