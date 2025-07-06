@@ -20,7 +20,7 @@ This was a C++-based project built as part of a university assignment to manage 
 ## 🛠 Technologies Used
 
 - **Language:** C++
-- **Concepts:** OOP, File I/O, Classes, Conditional Logic
+- **Concepts:**  File I/O, Functions, Conditional Logic
 
 ## 🚧 Project Status
 
